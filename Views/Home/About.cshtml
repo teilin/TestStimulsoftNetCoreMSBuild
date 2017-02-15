@@ -1,0 +1,11 @@
+﻿@using Stimulsoft.Report.NetCore
+
+@Html.Stimulsoft().StiNetCoreViewer("NetCoreViewer1",
+    new StiNetCoreViewerOptions()
+    {
+        Actions = 
+        {
+            GetReport = "GetReport",
+            ViewerEvent = "ViewerEvent"
+        }
+    })

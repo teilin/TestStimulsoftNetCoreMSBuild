@@ -1,0 +1,10 @@
+/Users/teis/Documents/Development/TestStimulsoft2/bin/Debug/netcoreapp1.1/Microsoft.DiaSymReader.Native.x86.dll
+/Users/teis/Documents/Development/TestStimulsoft2/bin/Debug/netcoreapp1.1/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/teis/Documents/Development/TestStimulsoft2/bin/Debug/netcoreapp1.1/TestStimulsoft2.deps.json
+/Users/teis/Documents/Development/TestStimulsoft2/bin/Debug/netcoreapp1.1/TestStimulsoft2.runtimeconfig.json
+/Users/teis/Documents/Development/TestStimulsoft2/bin/Debug/netcoreapp1.1/TestStimulsoft2.runtimeconfig.dev.json
+/Users/teis/Documents/Development/TestStimulsoft2/bin/Debug/netcoreapp1.1/TestStimulsoft2.dll
+/Users/teis/Documents/Development/TestStimulsoft2/bin/Debug/netcoreapp1.1/TestStimulsoft2.pdb
+/Users/teis/Documents/Development/TestStimulsoft2/obj/Debug/netcoreapp1.1/TestStimulsoft2.AssemblyInfo.cs
+/Users/teis/Documents/Development/TestStimulsoft2/obj/Debug/netcoreapp1.1/TestStimulsoft2.dll
+/Users/teis/Documents/Development/TestStimulsoft2/obj/Debug/netcoreapp1.1/TestStimulsoft2.pdb
